@@ -1,10 +1,16 @@
 # Example LLM Python GUI Build
 
+![alt text](Screenshots/gui.png)
+
 A demonstration of how LLMs can be used to create basic Python GUIs
 
 - `/Prompts` shows the prompts that I used
 -  `/Outputs` shows the outputs I received back
 -  `/Versions` shows th versions of the script that the LLMs generated
+  
+# Full Prompt And Output Chain
+
+See `prompt-output-chain.md`
 
 
 ## Screenshots 
